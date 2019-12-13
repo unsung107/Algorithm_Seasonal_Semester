@@ -5,7 +5,7 @@
         "label": "build hello world",
         "type": "shell",
         "command": "g++",
-        "args": ["-g", "-o", "solve", "3813 그래도 수명이...cpp"],
+        "args": ["-g", "-o", "solve", "1803 shortest route.cpp"],
         "group": {
           "kind": "build",
           "isDefault": true
